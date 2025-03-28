@@ -2,3 +2,6 @@
 Supplementary[[:space:]]Movie[[:space:]]1-P1WT-Run1.avi filter=lfs diff=lfs merge=lfs -text
 Supplementary[[:space:]]Movie[[:space:]]2-P2-Run1-Ushape.avi filter=lfs diff=lfs merge=lfs -text
 Supplementary[[:space:]]Movie[[:space:]]3-P2Run3-Sshape.avi filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Movie[[:space:]]4-P3WT-Run3.avi filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Movie[[:space:]]5-P3Next-WT-Run7.avi filter=lfs diff=lfs merge=lfs -text
