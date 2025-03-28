@@ -1,0 +1,4 @@
+.avi filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Movie[[:space:]]1-P1WT-Run1.avi filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Movie[[:space:]]2-P2-Run1-Ushape.avi filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Movie[[:space:]]3-P2Run3-Sshape.avi filter=lfs diff=lfs merge=lfs -text
