@@ -6,7 +6,11 @@ The analysis codes are in Fortran that can be run using Intel Fortran ifort/ifx 
 # Data for paper
 /Movies/ - This directory contains five movies as examples of our simulations of peptide P1-WT, P2 (S- and U-shape beta-sheets), P3-WT, and P3Next-WT.
 Besides the compelet movies, we also provide final PDB files and the trajectories from all simulations to generate movies using VMD.
+
 /pdbfiles/ - This diretory contains final coordinates of the peptides in each simulations. PDB files can be visualized using VMD.
+
 /trajectories/ - This directory contains trajectories from all simulations. The trajectories cannot be read individially but can be loaded with corresponding PDB files to VMD for visualizing aggregation process.
+
 /Energy files/ - This directory contains energy profiles of each simulations. The profiles recorded energy changes as time evovled. The files are in text format and can be open by any popular data analysis tools. 
+
 /VMD-Secondary Structures/ - This directory contains the secondary structure files exported from VMD as well as the Fortran code that was used for the calculation of beta-hairpins and beta-strand.
